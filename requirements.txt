@@ -1,0 +1,5 @@
+spacy==3.7.2
+pytextrank=3.2.5
+Pillow==10.0.0
+reportlab==4.0.4
+Flask_corse==4.0.0
